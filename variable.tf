@@ -1,4 +1,4 @@
-variable "ami" {
+variable "my-ami" {
 
 
 type = string
@@ -6,7 +6,7 @@ type = string
 }
 
 
-variable "instance-type" {
+variable "my-instance-type" {
 
 
 type = string
